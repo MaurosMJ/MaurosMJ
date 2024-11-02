@@ -8,6 +8,8 @@
   <img align="center" alt="Mauros-OraclePLSQL" height="30" width="40" src="https://www.oracle.com/a/ocom/img/pl-sql.svg">
   <img align="center" alt="Mauros-PostgreSQL" height="30" width="40" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg">
   <img align="center" alt="Mauros-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
+  <img align="center" alt="Mauros-Docker" height="30" width="40" src="https://www.svgrepo.com/show/373553/docker.svg">
+  <img align="center" alt="Mauros-Docker" height="30" width="40" src="https://www.svgrepo.com/show/448236/linux.svg">
 </div>
   
 ## Contact :iphone:
