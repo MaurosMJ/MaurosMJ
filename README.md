@@ -1,4 +1,4 @@
-### Hi there 👋 Eu sou o Mauros Milach 
+### Hi there 👋 I am Mauros Milach
  ## Skills:
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Mauros-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/mauros-milach-3b9b33175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
- ## Total de Visitas no perfil <br>
+ ## Total Profile Visits <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/MaurosMJ/count.svg" />
  </p>
